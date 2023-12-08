@@ -1,0 +1,28 @@
+
+#play {
+	
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	height: 50vh;
+
+  }
+
+#field td {
+	width: 50px;
+	height: 50px;
+	border: 1px solid black;
+	text-align: center;
+	font-weight: bold;
+}
+
+.red {
+	background: red;
+}
+.green {
+	background: green;
+}
+.blue {
+	background: blue;
+}
